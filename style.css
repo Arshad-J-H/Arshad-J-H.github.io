@@ -3,7 +3,7 @@ margin: 0;
 padding: 0;
 font-family: Century Gothic;
 background-image: url(../Background.png);
-height: 100vh
+height: 100vh;
 background-position:center;
 background-size: cover;
 }
@@ -31,7 +31,7 @@ button{
 	top: 90%;
 	right:32%;
 	padding: 15px 32px;
-	font-size: 25px
+	font-size: 25px;
 }
 
 ul li a{
